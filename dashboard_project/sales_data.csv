@@ -1,0 +1,11 @@
+Date,Product,Region,Units_Sold,Revenue
+2023-01-01,Apple,North,120,6000
+2023-01-02,Banana,East,80,2400
+2023-01-03,Mango,West,150,7500
+2023-01-04,Apple,South,100,5000
+2023-01-05,Banana,North,60,1800
+2023-01-06,Mango,East,130,6500
+2023-01-07,Apple,West,140,7000
+2023-01-08,Banana,South,90,2700
+2023-01-09,Mango,North,110,5500
+2023-01-10,Apple,East,160,8000
